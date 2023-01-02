@@ -1,0 +1,29 @@
+> # -----------------------------------------------------------------.
+> # show overview of hits ####
+> # check what was found how often
+> print( addm .... [TRUNCATED] 
+
+                            97246                             97877 
+                               13                                15 
+           97877 wertheim germany                    brunnengasse 1 
+                                1                                 1 
+                        de rycker                     dieter scholz 
+                                1                                 2 
+dynamic basic development limited                        eibelstadt 
+                                1                                 1 
+                   g.+tzenberg 13                    goetzenberg 13 
+                                1                                 1 
+  kingston express technology ltd                         laura hsu 
+                                1                                 2 
+                    lerchenberg 1                            mifsud 
+                                1                               939 
+                raymond de rycker              roberto josef mifsud 
+                                1                                 1 
+              samson daniel simon   silver rainbow services limited 
+                                1                                 1 
+                    tiger trading          trump year international 
+                               14                                 1 
+      your health holding limited                              <NA> 
+                                1                                 0 
+                              Sum 
+                             1000 
